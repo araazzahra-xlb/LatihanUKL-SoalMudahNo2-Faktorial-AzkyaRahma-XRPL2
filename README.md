@@ -1,4 +1,4 @@
-# LatihanUKL-SoalMudahNo2-Faktorial-AzkyaRahma-XRPL2
+# LatihanUKL-SoalSedangNo2-Faktorial-AzkyaRahma-XRPL2
 
 Program menghitung faktorial bilangan positif yang dimasukkan user menggunakan loop for. Hasil faktorial ditampilkan di layar.
 
